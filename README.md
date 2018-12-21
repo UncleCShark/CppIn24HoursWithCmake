@@ -1,5 +1,5 @@
 # CppIn24HoursWithCmake
-Two in One solution - using C++ and Modern Cmake build system. A project  based on  C++ source code from Sams Teach Yourself C++ in 24 Hours 5th Ed ISBN-13: 978-0-672-33331-6
+Two in One solution - using C++ and Modern Cmake build system. A project  based on  C++ source code from Sams Teach Yourself C++ in 24 Hours 5th Ed ISBN-13: 978-0-672-33331-6. This code should work on linux. Can you try and give a holler.
 
 # Getting Started
 
