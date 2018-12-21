@@ -8,7 +8,7 @@ with any development environment for C++ that’s up-to-date. This code should w
 - Install Cmake and your prefered C++ compiler toolset for Linux/Windows/IOS Platform and have a ball.
 
 ## Notes
-The solution was built successfully on Windows 10 with:
+The solution was built successfully on Windows 10 with  MSVC and Mingw64 toolchain:
 - Command Prompt + Cmake + Ninja (remember to install Cmake and Ninja tools ). To build:
   1. cd pathtoclonedrepository
   2. mkdir build
