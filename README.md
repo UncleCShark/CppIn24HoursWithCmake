@@ -6,8 +6,6 @@ Two in One solution - using C++ and Modern Cmake build system. A project  based 
 ## Prerequisites to run the samples
 - Install Cmake and your prefered C++ compiler toolset for Windows Platform ( MSVC, Mingw64, Clang ) optionally with IDE ( any Visual Studio 2017, QT Creator, VS Code will be OK ) and have a ball.
 
-- Don't be disappointed when you will try to compile examples for x64 platform, you can do it without any errors but keep in mind that source examples were destined for 16-bit and 32-bit Windows (they are twenty years old) - many of them work without problem but not MIDI example.
-
 ## Notes
 The solution was built successfully with:
 - Command Prompt + Cmake + Ninja (remember to install Cmake and Ninja tools ). To build:
